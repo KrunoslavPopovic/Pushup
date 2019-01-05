@@ -12,5 +12,7 @@ class MainActivity : AppCompatActivity() {
 
     fun testUpload() {
         var i: Int = 1 + 1
+
+        var ii: Int = 2 + 2
     }
 }
