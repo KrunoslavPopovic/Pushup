@@ -20,4 +20,8 @@ class MainActivity : AppCompatActivity() {
 
         var i = 5
     }
+
+    fun pcAdd01(){
+        var i = 15
+    }
 }
