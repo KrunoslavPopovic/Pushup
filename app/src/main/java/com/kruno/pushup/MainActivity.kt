@@ -15,4 +15,9 @@ class MainActivity : AppCompatActivity() {
 
         var ii: Int = 2 + 2
     }
+
+    fun testDownload(){
+
+        var i = 5
+    }
 }
